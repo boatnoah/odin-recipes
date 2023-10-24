@@ -1,0 +1,37 @@
+h1 {
+    background-color: red;
+    font-size: 50px;
+    color: white;
+}
+
+.external {
+    background-color: red;
+    font-size: 50px;
+    color: white;
+}
+
+
+.number .bg.r {
+    background-color: red;
+    font-size: 25px;
+    color: black
+}
+
+.number .bg.R {
+    background-color: red;
+    font-size: 50px;
+    color: black
+}
+.number .bg.g {
+    background-color: green;
+    font-size: 45px;
+    font-weight: bold;
+    color: black
+}
+
+.number .num-1 {
+    font-size: 70px;
+    color: blue;
+
+}
+
